@@ -1,0 +1,29 @@
+{
+  "household_id": "stoop-demo",
+  "partner_name": "Sam",
+  "timezone": "America/Los_Angeles",
+  "latitude": 47.6062,
+  "longitude": -122.3321,
+  "place_label": "the house",
+  "visits": [
+    {
+      "id": "visit-fridge",
+      "match": ["fridge", "refrigerator", "repair"],
+      "subject": "fridge",
+      "card_title": "Fridge repair",
+      "day_label": "Thursday",
+      "window_label": "2 to 4pm",
+      "card_when": "Thursday, 2 to 4pm",
+      "window_start_local": "14:00",
+      "window_end_local": "16:00",
+      "technician": "Priya",
+      "card_who": "Technician Priya",
+      "notes": "Priya uses the side gate. The dog is in that yard. Keep the gate latched until she is there. An adult needs to be home.",
+      "prep": [
+        "Clear a path",
+        "Secure the dog",
+        "An adult at home"
+      ]
+    }
+  ]
+}
